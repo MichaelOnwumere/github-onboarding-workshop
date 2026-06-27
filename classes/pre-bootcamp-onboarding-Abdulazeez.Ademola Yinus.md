@@ -12,7 +12,6 @@
 ## Lab / Hands-On Work
 
 * Forked the repository to my GitHub account.
-* Cloned the forked repository to my local machine.
 * Created and edited Markdown (.md) files.
 * Committed my changes with Git.
 * Pushed the changes to my GitHub repository.
@@ -25,9 +24,8 @@
 
 ### Challenges I faced
 
-* I forgot to add a description when uploading my Markdown (.md) files.
-
----
+* I had issues with creating fork and also uploading the file to the correct repository
+--
 
 ## My Takeaways
 
@@ -49,4 +47,4 @@ The class was very useful, I practiced while the class was on
 
 ---
 
-*Submitted by: Taiwo Durodola-Tunde · taiwogold*
+*Submitted by: Abdulazeez Ademola Yinusa Ademolay*
