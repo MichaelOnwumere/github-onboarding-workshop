@@ -1,4 +1,4 @@
-# My Notes — [Joseph_Akighir]
+# My Notes — Oludayo Akinseye
 
 
 ---
@@ -7,12 +7,10 @@
 
 <!-- Write the main ideas covered in today's session -->
 
--I learned all about the topics to be covered in the bootcamp
--How to create a Github account
--How to fork a repository edit and save
--How to commit a repository and collaborate it
--How to rename a downloaded template of a repository
--How to pull a repository
+-Bootcamp curricullum
+how to create Github
+how to collaborate on Github
+
 -
 -
 
@@ -21,11 +19,10 @@
 ## Lab / Hands-On Work
 
 <!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
-This will be carry out in my first project
 
 ### What I did
 
-I created my Github account
+I forked the Github
 downloaded the class files
 saved the file in a folder on my computer
 imported the save file back to make changes
@@ -34,16 +31,14 @@ imported the save file back to make changes
 It was successful
 
 ### Challenges I faced
-I tried opening the repository without forking it first and it failed
+I tried opening the repository without forking it first and it failed.
 
 ---
 
 ## My Takeaways
 
 <!-- What was most valuable to you personally from this session? -->
-i learnt how to create a Github account 
-i learnt how to download a file
-i learnt how to fork a repository
+i learnt how to collaborate on Github
 
 ---
 
@@ -64,4 +59,4 @@ i learnt how to fork a repository
 
 ---
 
-*Submitted by: [AJEKUNLE RUKAYAT] · [Rukayat1211]*
+*Submitted by: Oludayo Akinseye· [OludayoAkins]*
