@@ -32,7 +32,10 @@ Microsoft 365 Teams Developer Portal
 - Confirmed that the API plugin references the **API Key Registration ID** instead of the actual API key.
   <img width="1938" height="408" alt="image" src="https://github.com/user-attachments/assets/da583385-dbb8-4744-9d43-6b616a134000" />
 
-- Confirmed that the API is actually working as intended
+- The Agents Toolkit provision succeeded, and the app is visible in the Developer Portal.
+<img width="2536" height="402" alt="image" src="https://github.com/user-attachments/assets/041de8a3-dab4-47fe-944f-db09bd11aad0" />
+
+- Confirmed that the API and the agent are actually working as intended
 <img width="497" height="301" alt="{A6896D4C-0B01-4CBB-92A7-00E6918BB6B9}" src="https://github.com/user-attachments/assets/dc473e85-90c9-4a35-8b89-bc4d535a946a" />
 
 - Completed the Module
