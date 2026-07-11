@@ -1,4 +1,4 @@
-# My Notes — Oludayo Akinseye
+# My Notes — OLAJIDE SAMSON
 
 
 ## Key Concepts I Learned
@@ -75,4 +75,4 @@ Microsoft Learn was very helpful
 
 ---
 
-*Submitted by: Oludayo Akinseye · OludayoAkins*
+*Submitted by: OLAJIDE SAMSON · OLAJIDE SAMSON*
