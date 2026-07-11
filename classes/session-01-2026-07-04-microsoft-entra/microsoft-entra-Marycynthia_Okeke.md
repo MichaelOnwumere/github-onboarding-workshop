@@ -59,7 +59,7 @@ None
 
 ## Resources I Found Useful
 
-<!-- Any links, docs, or Microsoft Learn modules you found helpful -->
+[<!-- Any links, docs, or Microsoft Learn modules you found helpful -->](https://learn.microsoft.com/en-us/training/modules/copilot-declarative-agent-api-plugin-auth/2-integrate-api-plugin-key)
 
 
 *Submitted by: Marycynthia Okeke · Nechy-Okeke*
