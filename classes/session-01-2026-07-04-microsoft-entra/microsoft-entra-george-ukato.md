@@ -12,9 +12,9 @@
 
 
 
-
-
 * **Privileged Identity Management**- Enables organizations to manage, control and monitor access to important organizational resources.
+
+* ** Authenticate your API plugin for declarative agents with secured APIs** The module explains how to securely authenticate API plugins used by Microsoft 365 Copilot declarative agents when they need to access protected external APIs. It introduces the two primary authentication mechanisms API Keys and OAuth 2.0 and explains when each should be used. The module demonstrates how to configure authentication for API plugins so that Copilot agents can securely retrieve or update data from external business applications while ensuring only authorized users and services have access. It also covers integrating Microsoft Entra ID with OAuth 2.0 to provide secure, token-based authentication and emphasizes security best practices such as using the principle of least privilege, protecting API credentials, and validating authentication by testing the plugin within Microsoft 365 Copilot. By the end of the module, I was able to understand how to identify an API's authentication requirements, implement the appropriate authentication method, and securely connect Copilot declarative agents to enterprise systems.
 
 \---
 
@@ -67,6 +67,7 @@
 <!-- Anything you want to follow up on or ask the mentor -->
 
 * Please When will our test tenant be provided?
+* I would appreciate if we can have a detailed class on the Authentication of API's plugin and a Demo session for more context and undertsanding.
 
 
 
