@@ -1,0 +1,103 @@
+My Notes — Kayode Taiwo
+
+Key Concepts I Learned
+
+
+Microsoft Entra Security Defaults and Conditional Access are important security features that help organisations protect their identities and resources. Security Defaults provide baseline protection, while Conditional Access enables administrators to apply more granular security controls, such as enforcing multifactor authentication (MFA) based on specific conditions.
+
+
+Authentication and authorisation serve different purposes. Authentication verifies the identity of a user or device, while authorisation determines what resources and actions an authenticated user is permitted to access.
+
+
+The authentication methods discussed during the session included Single-Factor Authentication (SFA), Multifactor Authentication (MFA), and Passwordless Authentication. Passwordless authentication methods, such as Windows Hello for Business, provide stronger security by eliminating reliance on traditional passwords.
+
+
+Privileged Identity Management (PIM) enables organisations to implement Just-in-Time (JIT) access for privileged accounts, reducing security risks by granting elevated access only when required for administrative tasks.
+
+
+Two PIM assignment types were covered:
+
+Eligible Assignment – Users must activate the role before they can use it. Activation may require MFA, justification, or approval depending on the configured settings.
+Active Assignment – Users can immediately use the assigned role without completing an activation process.
+
+
+
+When deploying a Conditional Access policy, it is considered best practice to test the policy with a limited set of users or groups and utilise Report-Only Mode before organisation-wide deployment. This approach helps prevent accidental lockouts and service disruptions.
+
+
+
+Lab / Hands-On Activities
+Activities Performed
+During the practical session, I replicated the demonstrations provided by the instructor by configuring a Conditional Access policy and implementing Privileged Identity Management.
+Conditional Access Policy Configuration
+
+Signed in to the Microsoft Entra Admin Centre.
+Navigated to Conditional Access and selected Policies.
+Created a new policy and assigned it a descriptive name.
+Assigned the policy to a designated test user.
+Configured the policy under Access Controls to require Multifactor Authentication.
+Saved and enabled the policy.
+
+Privileged Identity Management Configuration
+
+Navigated to ID Governance and selected Privileged Identity Management.
+Selected Microsoft Entra Roles.
+Located the Group Administrator role.
+Opened the role settings and selected Edit.
+Configured activation settings to require both justification and approval before role activation.
+Reviewed the activation duration and notification settings.
+Assigned a test user as Eligible for the Group Administrator role.
+
+
+Results Obtained
+Conditional Access Policy
+
+Upon signing in with the test user account, the user was prompted to register and configure Multifactor Authentication before gaining access.
+This confirmed that the Conditional Access policy was functioning as intended and had been successfully applied.
+
+Privileged Identity Management
+
+The eligible user initiated activation of the Group Administrator role.
+An approval request was generated and reviewed from an administrator account.
+Following approval, the role became active for the configured duration, enabling the user to perform the administrative functions associated with the role.
+
+
+Challenges Encountered
+No significant challenges were encountered during the practical exercises. The configurations were completed successfully, and the expected results were achieved.
+
+Key Takeaways
+
+One of the most important lessons learned was the value of patience and a structured approach to troubleshooting.
+Effective troubleshooting requires reviewing configurations carefully, validating user and role assignments, allowing sufficient time for synchronisation and policy propagation, and retesting before implementing additional changes.
+I also gained a deeper appreciation for the importance of testing security controls with a limited user group before deploying them across an entire organisation.
+
+
+Questions for Further Understanding
+At this time, I do not have any outstanding questions regarding the topics covered.
+
+Summary of Additional Assignment: Authenticating API Plugins for Declarative Agents Using Secured APIs
+
+Declarative agents can integrate with external applications through APIs to retrieve information and perform approved actions.
+APIs are commonly secured using authentication mechanisms such as API Keys and OAuth 2.0.
+An API Key is a secret value issued by an API provider and is used to authenticate requests. The provider determines the level of access associated with the key.
+API providers also define how API keys should be included within requests.
+Microsoft 365 Copilot API plugins support API key authentication through:
+
+The Authorization Header as a Bearer Token
+A Custom Header
+A Query String Parameter
+
+
+API Keys should be treated as sensitive credentials and must never be exposed publicly or committed to public source code repositories.
+Secure credential storage methods should always be used to safeguard API keys.
+The practical exercise demonstrated how to integrate API plugins using both API Key authentication and OAuth 2.0 authentication methods.
+OAuth 2.0 provides a more scalable and secure authentication framework, particularly for enterprise applications requiring delegated access.
+
+
+Conclusion
+This session enhanced my understanding of identity and access management concepts within Microsoft Entra ID, particularly Authentication, Authorisation, Conditional Access, and Privileged Identity Management.
+The hands-on exercises provided valuable experience in implementing and testing security policies, enforcing Multifactor Authentication, and managing privileged access through Just-in-Time role activation.
+Additionally, the API authentication assignment improved my understanding of how Microsoft 365 Copilot declarative agents securely interact with external applications using API Keys and OAuth 2.0 authentication mechanisms.
+
+Submitted by:
+Kayode Taiwo

@@ -1,0 +1,57 @@
+# My Notes — Oluharaotu Alexander Onyekachi 
+
+
+---
+
+## Key Concepts I Learned
+learnt how to create a GitHub account 
+writing a good repo for our learning series 
+navigating around the github to ensure a good experience on the github.
+assignment submission after each session 
+-
+-
+-
+
+---
+
+## Lab / Hands-On Work
+Created my first GitHub account 
+wrote my first repo
+download and upload my first assignment 
+
+### What I did
+submitted my first assignment 
+
+### What happened / Result
+had some difficulty but was successful 
+
+### Challenges I faced
+I had some difficulty in trying to save and fork my repo
+
+---
+
+## My Takeaways
+
+focus and persistence 
+
+
+---
+
+## Questions I Still Have
+
+<!-- Anything you want to follow up on or ask the mentor -->
+
+-
+-
+
+---
+
+## Resources I Found Useful
+
+<!-- Any links, docs, or Microsoft Learn modules you found helpful -->
+
+-
+
+---
+
+*Submitted by: [Oluharaotu Alexander Onyekachi] · [stalexoluh]*

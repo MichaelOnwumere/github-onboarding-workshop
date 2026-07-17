@@ -1,0 +1,79 @@
+# My Notes - [OLAOLUWA ILESANMI]
+
+
+---
+
+## Key Concepts I Learned
+
+<!-- Write the main ideas covered in today's session -->
+
+* - Understanding API security 
+o Before integrating an API into a declarative agent, developers must determine how the API is secured. 
+o The module introduces two common authentication mechanisms: 
+* API Key – A simple authentication method where a unique key is sent with each request. It is commonly used for server-to-server communication and less complex integrations. 
+* OAuth 2.0 – A more secure, user-based authentication protocol that allows users to grant applications limited access to their resources without sharing their passwords. It is the preferred approach for enterprise applications. 
+
+
+* Integrating API plugins 
+o Developers learn how to configure API plugins so Microsoft 365 Copilot can securely communicate with external services. 
+o For APIs secured with an API key, the key is configured within the plugin so requests are authenticated automatically. 
+o For OAuth-secured APIs, the plugin is configured to authenticate users, obtain access tokens, and securely include those tokens in API requests. 
+
+-
+-
+
+---
+
+## Lab / Hands-On Work
+
+<!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
+
+### What I did
+
+•	Identified how APIs are secured.
+•	Designed secure integration for Copilot API plugins.
+•	Integrated plugins with APIs using API keys.
+•	Integrated plugins with APIs using OAuth2.
+•	Run and validated plugins inside Microsoft 365 Copilot
+
+
+
+### What happened / Result
+
+Built an API plugin secured with an API key. 
+Built another plugin using OAuth 2.0 authentication. 
+Test both plugins within Microsoft 365 Copilot to verify successful authentication and data retrieval.
+
+
+### Challenges I faced
+
+
+---
+
+## My Takeaways
+
+<!-- What was most valuable to you personally from this session? -->
+
+My main takeaway is that authentication is essential when extending Microsoft 365 Copilot with external APIs. The module teaches developers how to identify the authentication model an API uses, configure API plugins accordingly, and securely connect Copilot to external systems without exposing sensitive credentials.
+
+---
+
+## Questions I Still Have
+
+<!-- Anything you want to follow up on or ask the mentor -->
+
+-
+-
+
+---
+
+## Resources I Found Useful
+
+<!-- Any links, docs, or Microsoft Learn modules you found helpful -->
+
+- Authenticate your API plugin for declarative agents with secured APIs - Training | Microsoft Learn
+
+---
+
+*Submitted by: [Olaoluwa Ilesanmi] Â· [LaoluGit]*
+

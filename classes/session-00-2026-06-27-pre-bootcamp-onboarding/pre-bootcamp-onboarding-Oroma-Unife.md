@@ -1,61 +1,56 @@
-# My Notes — Oroma Unife
+# My Notes — Oroma Unufe
 
 
 ---
+### Week 1: Orientation & Foundation
 
-## Key Concepts I Learned
+You learned about the structure of the **26-week Cloud & AI Security Bootcamp**, which includes:
 
-<!-- Write the main ideas covered in today's session -->
+* Weekly Saturday live sessions
+* Hands-on Azure labs
+* Weekly assignments
+* Practical security projects
+* Career mentorship and certification guidance
 
-- Class Management
-- how to create Github
-- how to collaborate on github
-- how to fork a repository
-- i did the home work
+### The 8 Core Learning Paths
 
----
+The bootcamp is designed around these areas:
 
-## Lab / Hands-On Work
+1. Identity & Governance
+2. Data, Database & Network Security
+3. AI Security
+4. Application Security
+5. Server & Virtual Machine Security
+6. Security Posture Management
+7. Security Operations (SIEM) with Microsoft Sentinel
+8. Microsoft Security Copilot & Career Mentorship
 
-<!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
+### GitHub Practical
 
-### What I did
-I created my github account
-i downloaded the class files
+You learned how to:
 
-### What happened / Result
+* Create and use a GitHub account (with help from Emmanuel Oyimafu)
+* Create repositories
+* Upload files
+* Fork repositories
+* Collaborate on projects
+* Submit assessments through GitHub
 
-I was successful
+### Azure Lab
 
-### Challenges I faced
+You were introduced to:
 
-I did not fork the repository, i tried to upload and it failed with an error
+* Your Azure lab environment
+* How to access and manage Azure resources
+* The importance of managing lab resources to avoid unnecessary costs
 
----
+### Key Takeaways
 
-## My Takeaways
+By the end of the first session, you understood that cloud security is not just about technology but also about:
 
-<!-- What was most valuable to you personally from this session? -->
+* Protecting identities
+* Securing cloud resources
+* Monitoring threats
+* Applying governance and compliance
+* Building practical skills through hands-on labs
 
-I leanrt how to set up github repository
-
----
-
-## Questions I Still Have
-
-<!-- Anything you want to follow up on or ask the mentor -->
-
-- AM having issue understanding the process
--
-
----
-
-## Resources I Found Useful
-
-<!-- Any links, docs, or Microsoft Learn modules you found helpful -->
-
--
-
----
-
-*Submitted by: Oroma unobe · Oroma*

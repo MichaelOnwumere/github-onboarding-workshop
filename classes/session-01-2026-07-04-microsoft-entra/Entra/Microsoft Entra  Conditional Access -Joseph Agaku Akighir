@@ -1,0 +1,72 @@
+# My Notes â€”Joseph Agaku Akighir
+
+
+## Key Concepts I Learned
+
+To secure access to Microsoft Entra ID, Microsoft recommends a Zero Trust approach centered on strong authentication, least-privilege access, and continuous monitoring. Key steps include:
+
+Enable Multi-Factor Authentication (MFA) for all users, especially administrators. Prefer phishing-resistant methods such as passkeys, Windows Hello for Business, or FIDO2 security keys where possible.
+Use Conditional Access policies to control sign-ins based on user identity, device compliance, location, application, and risk level. Block or require additional verification for risky sign-ins
+
+
+## Lab / Hands-On Work
+
+### What I did
+
+Sign in to the Microsoft Entra admin center with an account that has the appropriate administrator role (such as Conditional Access Administrator or Security Administrator).
+Navigate to Conditional Access
+Go to Protection → Conditional Access.
+Select Create new policy.
+Name the policy
+Give the policy a descriptive name, such as Require MFA for Admins.
+Assign users or groups
+Select the users, groups, or directory roles the policy applies to.
+Exclude emergency ("break-glass") administrator accounts to avoid accidental lockout.
+Select target resources
+Choose the cloud apps or actions the policy will protect (for example, Microsoft 365, Azure Management, or all cloud apps).
+Configure conditions (optional)
+Apply the policy based on factors such as:
+Device platform (Windows, macOS, iOS, Android)
+Location (trusted or untrusted networks)
+Client applications
+Sign-in risk
+User risk
+Device state
+Choose access controls
+Decide whether to:
+Grant access
+Block access
+If granting access, require one or more controls, such as:
+Multi-Factor Authentication (MFA)
+A compliant deviceand supporting the Principle of Least Privilege.
+
+### Challenges I faced
+
+None yet. I don't have access to the environment at the moment, so I haven't been able to get my hands dirty as much as I'd like.
+
+## My Takeaways
+
+- Identity is the new security perimeter.
+- Conditional Access enables organizations to make intelligent access decisions.
+- MFA remains one of the most effective defenses against compromised credentials.
+- PIM supports the Principle of Least Privilege by eliminating unnecessary standing administrative access.
+- Zero Trust begins with verifying every identity before granting access.
+
+
+---
+
+## Questions I Still Have
+
+None for now, the plan is to continue exploring
+
+---
+
+## Resources I Found Useful
+
+- Microsoft Learn
+- Microsoft Naija Security User Group YouTube videos
+
+
+---
+
+*Submitted by: Joseph Agaku Akighir*
