@@ -21,7 +21,6 @@
 - Enforce governance with Azure policy and resource locks
 - Created a storage resource to test the policy enforced
 - Assign policy to deny public access to resources to prevent any deployment of resources with public access enabled
--
 
 ### What happened / Result
 
